@@ -2,6 +2,3 @@ App online:
 
 http://railsgirlsapp2.herokuapp.com/attendees
 
-App online: 
-
-http://railsgirlsapp2.herokuapp.com/attendees
